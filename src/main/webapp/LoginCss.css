@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: rgb(34, 42, 51);
+}
+
+.brand {
+	font-family: cursive;
+	font-weight: bold;
+	color: #e5a4f9 !important;
+}
+
+.user_name {
+	color: #5e879b !important;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.card {
+	background-color: #30324b !important;
+	color: wheat !important;
+	box-shadow: 0 4px 20px rgb(25 28 61/ 25%), 0 6px 20px rgb(17, 19, 37) !important;
+}
